@@ -1,0 +1,5 @@
+test
+reload
+compile
+test:compile
+test
